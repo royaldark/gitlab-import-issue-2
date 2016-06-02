@@ -1,2 +1,2 @@
 # gitlab-import-issue-2
-Testing GitLab importing issues
+This tests GitLab importing issues
